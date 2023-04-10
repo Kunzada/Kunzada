@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi 👋, I'm Nargiza
 ### 🧰 Languages and Tools:
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
