@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ----
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kunzada&theme=dark)](https://git.io/streak-stats)
+----
 ### 🧰 Languages and Tools:
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-----
+
 
 
 
