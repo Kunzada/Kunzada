@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### Hi 👋, I'm Nargiza
 ----
-🌱 I’m currently learning c#
 
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunzada&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
